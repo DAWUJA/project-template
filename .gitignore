@@ -1,0 +1,8 @@
+# Eliminar configuración de proyecto en diferentes IDEs
+.idea/
+.vscode/
+/*.iml
+
+# Eliminar binarios proyecto Maven
+/target/
+
