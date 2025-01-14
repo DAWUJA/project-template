@@ -2,7 +2,7 @@
 
 Más información sobre cómo rellenar el fichero en https://keepachangelog.com/es-ES/1.0.0/
 
-## [0.1] - 2024-01-30
+## Iteración 1 - 2024-01-30
 
 ### Added
 
@@ -13,7 +13,7 @@ Más información sobre cómo rellenar el fichero en https://keepachangelog.com/
 
 - Añadidos estilos a página de inicio (Manuel García)
 
-## [0.2] - 2024-02-15
+## Iteración 2 - 2024-02-15
 
 ### Added
 
